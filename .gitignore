@@ -1,0 +1,11 @@
+!/src/**
+!.gitignore
+
+.idea/
+logs/
+*.log
+*.iml
+*.log.*
+out/
+target/
+.vscode/
